@@ -1,17 +1,17 @@
-# Job Posting Platform
+# Introduction
 
-A dynamic and responsive Job Posting Platform that enables companies to post job listings, manage them, and allow applicants to easily contact employers via email or phone. This platform ensures a seamless experience for both job seekers and employers.
+A dynamic and responsive Job Board Platform that enables companies to post job listings, manage them, and allow applicants to easily contact employers via email or phone. This platform ensures a seamless experience for both job seekers and employers.
 
 ---
 
 ## 🚀 **Tech Stack**
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Mongoose](https://img.shields.io/badge/Mongoose-8800FF?style=flat&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ---
 
@@ -52,25 +52,4 @@ A dynamic and responsive Job Posting Platform that enables companies to post job
 - **Real-time Updates**: Integrate real-time job updates and notifications for job applicants and employers.
 - **Advanced Analytics**: Add analytics for employers to track job post performance and applicant engagement.
 
----
 
-## 💬 **Contact Information**
-
-For any inquiries or collaborations, feel free to contact:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-
----
-
-## 📸 **Screenshots**
-![Job Posting Platform Screenshot](link-to-screenshot.jpg)
-
----
-
-## 💻 **Running the Project Locally**
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/job-posting-platform.git
