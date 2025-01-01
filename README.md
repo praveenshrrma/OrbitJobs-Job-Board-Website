@@ -1,3 +1,12 @@
+<div style="display: flex; flex-wrap: wrap; gap: 0;">
+  <img src="https://github.com/user-attachments/assets/41d92f07-b210-40b4-8f23-246806e668ed" alt="Image 1" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/59b94ca1-f97b-4ab7-b942-ffdd926cc90e" alt="Image 2" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/21fb4a59-3c66-4467-8042-2a0f3f34ba6c" alt="Image 3" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/31f81f0a-27dd-4bc1-8a07-4e847d68f495" alt="Image 4" style="width: 49%;" />
+  <img src="https://github.com/user-attachments/assets/c1863770-84cc-403e-96b0-c72dc9ac0dff" alt="Image 5" style="width: 49%;" />
+</div>
+
+
 # Introduction
 
 A dynamic and responsive Job Board Platform that enables companies to post job listings, manage them, and allow applicants to easily contact employers via email or phone. This platform ensures a seamless experience for both job seekers and employers.
