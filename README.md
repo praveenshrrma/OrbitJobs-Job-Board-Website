@@ -3,12 +3,17 @@
 ![2](https://github.com/user-attachments/assets/0dc181e6-6c3a-43f1-af0f-c509499797f7)
 ![3](https://github.com/user-attachments/assets/b977b442-cd40-46b3-9cef-a2b53b019987)
 
-<div style="display: flex; flex-wrap: wrap; gap: 0;">
-  <img src="https://github.com/user-attachments/assets/41d92f07-b210-40b4-8f23-246806e668ed" alt="Image 1" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/59b94ca1-f97b-4ab7-b942-ffdd926cc90e" alt="Image 2" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/21fb4a59-3c66-4467-8042-2a0f3f34ba6c" alt="Image 3" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/31f81f0a-27dd-4bc1-8a07-4e847d68f495" alt="Image 4" style="width: 49%;" />
-  <img src="https://github.com/user-attachments/assets/c1863770-84cc-403e-96b0-c72dc9ac0dff" alt="Image 5" style="width: 49%;" />
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/1.jpg" alt="Image 1" width="49%">
+  <img src="images/2.jpg" alt="Image 2" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/3.jpg" alt="Image 3" width="49%">
+  <img src="images/4.jpg" alt="Image 4" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/5.jpg" alt="Image 5" width="49%">
+  <div style="width: 49%;"></div> <!-- Empty space to align with other rows -->
 </div>
 
 # Introduction
