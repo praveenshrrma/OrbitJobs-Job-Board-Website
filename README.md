@@ -1,7 +1,6 @@
-
-![1](https://github.com/user-attachments/assets/5324d1b2-9795-44ec-b463-1729e3048f2b)
-![2](https://github.com/user-attachments/assets/0dc181e6-6c3a-43f1-af0f-c509499797f7)
-![3](https://github.com/user-attachments/assets/b977b442-cd40-46b3-9cef-a2b53b019987)
+<img src="images/1.gif" alt="GIF 1" width="100%"/>
+<img src="images/2.gif" alt="GIF 2" width="100%"/>
+<img src="images/3.gif" alt="GIF 3" width="100%"/>
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/1.jpg" alt="Image 1" width="49%">
