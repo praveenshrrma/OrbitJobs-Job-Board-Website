@@ -10,10 +10,19 @@
   <img src="images/3.jpg" alt="Image 3" width="49%">
   <img src="images/4.jpg" alt="Image 4" width="49%">
 </div>
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/5.jpg" alt="Image 5" width="49%">
-  <div style="width: 49%;"></div> <!-- Empty space to align with other rows -->
+  <img src="images/6.jpg" alt="Image 6" width="49%">
 </div>
+<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+  <img src="images/7.jpg" alt="Image 7" width="49%">
+  <img src="images/8.jpg" alt="Image 8" width="49%">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/9.jpg" alt="Image 9" width="49%">
+  <img src="images/10.jpg" alt="Image 10" width="49%">
+</div>
+
 
 # Introduction
 
