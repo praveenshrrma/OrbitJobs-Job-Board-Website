@@ -1,6 +1,14 @@
 <img src="images/1.gif" alt="GIF 1" width="100%"/>
 <img src="images/2.gif" alt="GIF 2" width="100%"/>
+
 <img src="images/3.gif" alt="GIF 3" width="100%"/>
+<img src="images/4.gif" alt="GIF 4" width="100%"/>
+
+<img src="images/5.gif" alt="GIF 5" width="100%"/>
+<img src="images/6.gif" alt="GIF 6" width="100%"/>
+
+<img src="images/7.gif" alt="GIF 7" width="100%"/>
+
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/1.jpg" alt="Image 1" width="49%">
