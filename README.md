@@ -2,13 +2,6 @@
 <img src="images/2.gif" alt="GIF 2" width="100%"/>
 
 <img src="images/3.gif" alt="GIF 3" width="100%"/>
-<img src="images/4.gif" alt="GIF 4" width="100%"/>
-
-<img src="images/5.gif" alt="GIF 5" width="100%"/>
-<img src="images/6.gif" alt="GIF 6" width="100%"/>
-
-<img src="images/7.gif" alt="GIF 7" width="100%"/>
-
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/1.jpg" alt="Image 1" width="49%">
@@ -20,15 +13,8 @@
 </div>
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
   <img src="images/5.jpg" alt="Image 5" width="49%">
-  <img src="images/6.jpg" alt="Image 6" width="49%">
 </div>
-<div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-  <img src="images/7.jpg" alt="Image 7" width="49%">
-  <img src="images/8.jpg" alt="Image 8" width="49%">
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="images/9.jpg" alt="Image 9" width="49%">
-  <img src="images/10.jpg" alt="Image 10" width="49%">
+
 </div>
 
 
